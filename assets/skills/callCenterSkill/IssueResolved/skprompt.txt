@@ -1,0 +1,18 @@
+Analyze the following customer complaint: 
+
+
+
++++++
+{{$input}}
++++++
+
+
+
+
+I want you to tell me one thing, and one thing only. 
+Was the customers issue successfully resolved? 
+Respond only from:
+- Yes
+- No
+- Unsure
+Strictly respond only in the format Resolved: X

@@ -1,0 +1,44 @@
+Analyze the following customer complaint:
+
++++++
+{{$input}}
++++++
+
+I want you to tell me one thing, and one thing only. 
+What is the sentiment of the customer calling up to complain? 
+Respond only from:
+- afraid
+- angry
+- calm
+- cheerful
+- cold
+- crabby
+- crazy
+- cross
+- excited
+- frigid
+- furious
+- glad
+- glum
+- happy
+- icy
+- jolly
+- jovial
+- kind
+- lively
+- livid
+- mad
+- ornery
+- rosy
+- sad
+- scared
+- seething
+- shy
+- sunny
+- tense
+- tranquil
+- upbeat
+- wary
+- weary
+- worried
+Strictly respond only in the format Sentiment: X

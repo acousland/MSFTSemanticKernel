@@ -1,0 +1,9 @@
+Analyze the following transcription: 
+
++++++
+{{$input}}
++++++
+
+I want you to tell me one thing, and one thing only. 
+What is the product that is being discussed?
+Strictly respond only in the format Product: X

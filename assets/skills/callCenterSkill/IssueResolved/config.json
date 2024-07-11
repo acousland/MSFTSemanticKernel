@@ -1,0 +1,14 @@
+{
+    "schema": 1,
+    "description": "Determine if the issue was resolved",
+    "type": "completion",
+    "input": {
+      "parameters": [
+        {
+          "name": "input",
+          "description": "transcript",
+          "defaultValue": ""
+        }
+      ]
+    }
+  }

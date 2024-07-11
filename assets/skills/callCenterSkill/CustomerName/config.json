@@ -1,0 +1,14 @@
+{
+    "schema": 1,
+    "description": "Determine the name of the customer",
+    "type": "completion",
+    "input": {
+      "parameters": [
+        {
+          "name": "input",
+          "description": "transcript",
+          "defaultValue": ""
+        }
+      ]
+    }
+  }

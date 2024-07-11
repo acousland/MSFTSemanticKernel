@@ -1,0 +1,15 @@
+Analyze the following customer complaint: 
+
++++++
+{{$input}}
++++++
+
+I want you to tell me one thing, and one thing only. 
+What is the sentiment of the call centre operator answering the call? 
+Respond only from:
+- Very positive
+- Positive
+- Neutral
+- Negative
+- Very Negative
+Strictly respond only in the format Sentiment: X

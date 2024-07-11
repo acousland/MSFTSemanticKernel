@@ -1,0 +1,14 @@
+{
+    "schema": 1,
+    "description": "Determine what the issue with the product that is being discussed",
+    "type": "completion",
+    "input": {
+      "parameters": [
+        {
+          "name": "input",
+          "description": "transcript",
+          "defaultValue": ""
+        }
+      ]
+    }
+  }

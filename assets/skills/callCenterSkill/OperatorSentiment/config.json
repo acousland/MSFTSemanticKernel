@@ -1,0 +1,14 @@
+{
+    "schema": 1,
+    "description": "Determine the sentiment of the call center operator",
+    "type": "completion",
+    "input": {
+      "parameters": [
+        {
+          "name": "input",
+          "description": "transcript",
+          "defaultValue": ""
+        }
+      ]
+    }
+  }

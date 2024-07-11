@@ -1,0 +1,14 @@
+{
+    "schema": 1,
+    "description": "Determine what the customer is feeling during the interaction",
+    "type": "completion",
+    "input": {
+      "parameters": [
+        {
+          "name": "input",
+          "description": "transcript",
+          "defaultValue": ""
+        }
+      ]
+    }
+  }

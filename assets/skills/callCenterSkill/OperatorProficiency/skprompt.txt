@@ -1,0 +1,10 @@
+Analyze the following customer complaint: 
+
++++++
+{{$input}}
++++++
+
+I want you to tell me one thing, and one thing only. 
+Please rank the proficiency of the operator from 1 - 10. 1 being the lowest and 10 being the highest? 
+Respond only with a single number. If you can not come up with a rating, score them as -99
+Strictly respond only in the format Rating: X
